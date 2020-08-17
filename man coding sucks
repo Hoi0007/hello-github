@@ -1,0 +1,7 @@
+const Page = () => (
+  <div className="page">
+    <div className="sup-guys"
+      <Markdown url="https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5" />
+    </div>
+  </div>
+);        
